@@ -4,3 +4,8 @@ body{
 .text-slanted{
   font-family: 'Courgette', cursive;
 }
+@media only screen and (max-width: 600px) {
+.text-sm-screen{
+  font-size: 13px;
+}
+}
